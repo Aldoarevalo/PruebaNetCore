@@ -31,9 +31,13 @@
 
 9. colecciónes generadas en postman
 
-9.1. Metodo post y get en coleccón postman de las transferencias
+9.1. Metodos post y get en colección postman de las transferencias
 
 https://www.getpostman.com/collections/4a24cfe33d7f4ff7f55e
+
+10. la documentación de la api generada en postman se encuentra en el siguente link
+
+https://documenter.getpostman.com/view/17744238/UVRGEPRy
 
 
 
