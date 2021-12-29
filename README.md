@@ -2,16 +2,16 @@
 
 1. Para ejecutar el proyecto descargue o clone el proyecto
 
-2. Luego de descargar abra el proyecto con viual studio y ejecut compliar o  desde la linea de comandos dotnet run
+2. Luego de descargar abra el proyecto con visual studio y ejecute compilar o  desde la linea de comandos dotnet run
 
-3. se abrirá el navegador con esta dirección https://localhost:44354/swagger la base de datos utilizada para este tutorial es InMemory
+3.luego se abrirá el navegador con esta dirección https://localhost:44354/swagger la base de datos utilizada para este tutorial es InMemory
 
 4. en el navegador podrás cargar una transferencia desde el metodo post de swagger
 
 ![image](https://user-images.githubusercontent.com/57592844/147657859-65e98edc-b7f5-4fad-bbe3-1f79e8900992.png)
 ![image](https://user-images.githubusercontent.com/57592844/147657952-b5ed3927-a25b-4f3e-b348-0a11e5d4c2aa.png)
 
-5. si cargargamos el proyecto con una cuenta de origen y destino iguales el sistema lanzará una excepción como se ve a continuación
+5. si cargamos el proyecto con una cuenta de origen y destino iguales el sistema lanzará una excepción como se ve a continuación
 
 ![image](https://user-images.githubusercontent.com/57592844/147658187-3661db86-99cf-4e97-98d2-d2ca66e7c030.png)
 ![image](https://user-images.githubusercontent.com/57592844/147658251-af3860b2-aeed-49d7-a33c-a4e6bf4e1fda.png)
@@ -35,7 +35,7 @@
 
 https://www.getpostman.com/collections/4a24cfe33d7f4ff7f55e
 
-10. la documentación de la api generada en postman se encuentra en el siguente link
+10. la documentación de la api generada en postman se encuentra en el siguiente link
 
 https://documenter.getpostman.com/view/17744238/UVRGEPRy
 
