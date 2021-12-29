@@ -4,7 +4,7 @@
 
 2. Luego de descargar abra el proyecto con viual studio y ejecut compliar o  desde la linea de comandos dotnet run
 
-3. se abrirá el navegador con esta dirección https://localhost:44354/swagger
+3. se abrirá el navegador con esta dirección https://localhost:44354/swagger la base de datos utilizada para este tutorial es InMemory
 
 4. en el navegador podrás cargar una transferencia desde el metodo post de swagger
 
@@ -28,6 +28,18 @@
 8. Se podrá filtrar una transferencia por número de operación
 
 ![image](https://user-images.githubusercontent.com/57592844/147659326-a197c69d-96ff-4cf9-be48-2690b8b0121d.png)
+
+9. colecciónes generadas en postman
+
+9.1. Metodo post y get en coleccón postman de las transferencias
+
+https://www.getpostman.com/collections/4a24cfe33d7f4ff7f55e
+
+
+
+
+
+
 
 
 
