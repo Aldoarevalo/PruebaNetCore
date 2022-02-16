@@ -6,7 +6,7 @@
 
 3.luego se abrirá el navegador con esta dirección https://localhost:44354/swagger la base de datos utilizada para este tutorial es InMemory
 
-4. en el navegador podrás cargar una transferencia desde el metodo post de swagger
+4. en el navegador podrás cargar una transferencia desde el metodo post de Swagger
 
 ![image](https://user-images.githubusercontent.com/57592844/147657859-65e98edc-b7f5-4fad-bbe3-1f79e8900992.png)
 ![image](https://user-images.githubusercontent.com/57592844/147657952-b5ed3927-a25b-4f3e-b348-0a11e5d4c2aa.png)
