@@ -19,7 +19,6 @@
 
         public string estado { get; set; }
 
-
     }
 
 }
